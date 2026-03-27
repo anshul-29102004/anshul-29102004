@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anshul Srivastava</h1>
+<h3 align="center">Passionate Full-Stack Developer</h3>
 
-<!--
-**anshul-29102004/anshul-29102004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate full-stack developer with expertise in React, Node.js, and MongoDB.  
+I enjoy building scalable applications, solving complex problems, and integrating AI into real-world solutions.
+
+- 🔭 Currently working on: Full-Stack Projects  
+  - 💬 Ask me about: React, Node.js, MERN Stack  
+- 📫 Reach me at: anshulakgec@gmail.com  
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/anshul-srivastava" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nodejs,express,nextjs,tailwind" />
+</p>
+
+### 🗄️ Databases & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,firebase" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=anshul29102004&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshul29102004&theme=radical" />
+</p>
+
+---
+
+✨ Let's build something amazing together!
