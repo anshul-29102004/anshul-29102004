@@ -14,7 +14,7 @@
 
 - 🔭 Building Full-Stack & AI-powered applications  
 - 💬 Ask me about **React, Node.js, MongoDB, MERN Stack**  
-- 🌱 Currently learning **System Design & Advanced Backend**  
+- 🌱 Currently learning **Advanced Backend**  
 - 📫 Reach me at: **anshulakgec@gmail.com**
 
 ---
@@ -48,8 +48,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anshul29102004&show_icons=true&theme=radical&border_radius=10" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshul29102004&theme=radical&border_radius=10" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anshul-29102004&show_icons=true&theme=radical&border_radius=10" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshul-29102004&theme=radical&border_radius=10" height="160"/>
 </p>
 
 ---
