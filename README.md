@@ -28,7 +28,7 @@
 <a href="https://leetcode.com/u/2910_anshul/" target="blank">
 <img src="https://cdn.simpleicons.org/leetcode" height="40" />
 </a>
-<a href="https://github.com/anshul29102004" target="blank">
+<a href="https://github.com/anshul-29102004" target="blank">
 <img src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 </p>
@@ -65,7 +65,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anshul29102004&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=anshul-29102004&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -73,7 +73,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshul29102004&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshul-29102004&theme=react-dark" />
 </p>
 
 ---
