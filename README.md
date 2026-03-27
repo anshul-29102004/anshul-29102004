@@ -1,27 +1,35 @@
 <h1 align="center">Hi 👋, I'm Anshul Srivastava</h1>
-<h3 align="center">Passionate Full-Stack Developer</h3>
+
+<h3 align="center">
+🚀 Full-Stack Developer | MERN | AI Enthusiast
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+AI+Powered+Apps;Always+Learning+New+Things" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate full-stack developer with expertise in React, Node.js, and MongoDB.  
-I enjoy building scalable applications, solving complex problems, and integrating AI into real-world solutions.
-
-- 🔭 Currently working on: Full-Stack Projects  
-- 💬 Ask me about: React, Node.js, MERN Stack  
-- 📫 Reach me at: anshulakgec@gmail.com  
+- 🔭 Building Full-Stack & AI-powered applications  
+- 💬 Ask me about **React, Node.js, MongoDB, MERN Stack**  
+- 🌱 Currently learning **System Design & Advanced Backend**  
+- 📫 Reach me at: **anshulakgec@gmail.com**
 
 ---
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/anshul-srivastava" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 <a href="https://leetcode.com/u/2910_anshul/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=leetcode" height="30" />
+<img src="https://cdn.simpleicons.org/leetcode" height="40" />
+</a>
+<a href="https://github.com/anshul29102004" target="blank">
+<img src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 </p>
 
@@ -29,49 +37,49 @@ I enjoy building scalable applications, solving complex problems, and integratin
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td>
+<p align="center">
 
-### 💻 Languages & Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nodejs,express,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nodejs,express,nextjs,tailwind,mongodb,git,github,firebase" />
+
 </p>
-
-</td>
-
-<td>
-
-### 🗄️ Databases & Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-</td>
-
-<td>
-
-### ⚙️ Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,firebase" />
-</p>
-
-</td>
-</tr>
-</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anshul29102004&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshul29102004&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=anshul29102004&show_icons=true&theme=radical&border_radius=10" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshul29102004&theme=radical&border_radius=10" height="160"/>
 </p>
 
 ---
 
-✨ Let's build something amazing together!
+## 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/2910_anshul?theme=dark&font=baloo&border_radius=10" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=anshul29102004&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshul29102004&theme=react-dark" />
+</p>
+
+---
+
+## ✨ Quote
+
+<p align="center">
+"Code. Build. Learn. Repeat."
+</p>
