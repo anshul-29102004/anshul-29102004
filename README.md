@@ -38,7 +38,7 @@
 ## 📄 Resume
 
 <p align="center">
-<a href="https://drive.google.com/file/d/1WElB0P02mG8b7SP15s-KIPIsda1PfTXY/view?usp=drive_link" target="_blank">
+<a href="https://drive.google.com/file/d/1iJ26XpDfzyFnOpCFa6x5VPqlQI9ZICjf/view?usp=drive_link" target="_blank">
 <img src="https://img.shields.io/badge/View%20Resume-%23FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </a>
 </p>
